@@ -1,4 +1,4 @@
-# SQL_retail_sales_p1
+# SQL_retail_sales_p1\n
 **Retail Sales Analysis SQL Project
 Project Overview
 Project Title: Retail Sales Analysis
